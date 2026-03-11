@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment content in this folder
+bin/
+lib/
+lib64/
+lib64
+include/
+etc/
+share/
+pyvenv.cfg
+
+# Training/model artifacts
+gpt2-shakespeare/
+shakespeare_model/
+
+# Optional local files
+.lock
