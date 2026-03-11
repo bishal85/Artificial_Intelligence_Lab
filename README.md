@@ -60,10 +60,4 @@ ROMEO: Shall I speak more, or shall I hear this?
 JOSEPH: Oh, I have no choice, Mr. Mather, but to begin with, let me tell you the truth. As you know, my father had died in the battle of Waterloo, and he died a little while ago. He was buried at the Royal Cemetery in London. In that cemetery he had the name of John Cusack, who was in his
 ```
 
-## Screenshot Requirement
 
-Add your terminal training screenshot to:
-
-`Screenshots/training-log.png`
-
-This should show the completed training logs from running `python3 Lab.py`.
