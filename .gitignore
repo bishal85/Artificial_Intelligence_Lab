@@ -15,6 +15,7 @@ pyvenv.cfg
 # Training/model artifacts
 gpt2-shakespeare/
 shakespeare_model/
+task2_output.png
 
 # Optional local files
 .lock

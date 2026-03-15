@@ -1,0 +1,7 @@
+# Install a platform-appropriate PyTorch build separately first.
+accelerate
+datasets
+diffusers
+langchain-community
+langchain-core
+transformers
